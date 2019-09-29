@@ -1,0 +1,12 @@
+Practical Lists
+
+Food/drinks to get before the concert:
+	Five Guys Burger and Fries
+	2 bottles of water
+	Beer
+	Coffee
+To do before leaving the house:
+	Save Visual Studio Code project
+	Turn off computer
+	Turn off lights
+	Lock the doors

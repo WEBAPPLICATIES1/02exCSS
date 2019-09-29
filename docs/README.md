@@ -6,10 +6,12 @@ Pak deze zip uit in de map waar je alle leermateriaal van Webapplicaties I plaat
 
 Ga nu naar Visual Studio Code en open deze map.
 
+Er is 1 driloefening (met drie kleinere oefeningen) en vervolgens 3 grotere oefeningen, waarvan de laatste twee, Vander Beken en Yoko's kitchen verder werken op de overeenkomstige oefeningen van het vorige hoofdstuk.
+
 ## OEFENING 1: het betere drilwerk.
 De eerste oefening bevat 3 kleine oefeningen om de juiste selectors te gebruiken en stijlregels te declareren.
 
-Je vindt de oefeningen in de map driloefeningen.
+Je vindt de oefeningen in de map **driloefeningen**.
 
 Je start in elke oefening met dezelfde index.html. De map css bevat de style.css. 
 In het css bestand vind je de opdrachten die je moet uitvoeren, misschien vind je ook nuttige tip(s) in de webpagina zelf.
@@ -33,8 +35,30 @@ Oefening 3.
 ![](images/d04.PNG)
 
 ----
+## OEFENING 2: Lijsten
 
-## OEFENING 2: Vander Beken.
+Open de map **Lijsten**:
+- vertrek van de gegeven tekstbestanden en maak de pagina na op basis van onderstaande screenshot. Denk na over de semantiek en over de opmaak.
+- maak een afzonderlijk CSS-bestand met de naam main.css in een folder CSS en verwijs er naar in het HTML-bestand.
+- volgende kleuren worden gebruikt: #f0f0f0 - red - darkred - #33CC66 - white - yellow
+- gebruikte font: helvetica, verdana, sans-serif;
+- grootte lettertype: 1.3 keer de normale grootte - h1: 4X - h2: 2X - menu_item: 1.6X
+
+![](images/li01.PNG)
+
+Werk daarna ook de pagina’s personal.html, dream.html en practical.html uit op basis van onderstaande screenshots.
+
+**personal.html**
+![](images/li02.PNG)
+
+**dream.html**
+![](images/li03.PNG)
+
+**practical.html
+![](images/li04.PNG)
+---
+
+## OEFENING 3: Vander Beken.
 
 Deze oefening gaat verder op de oplossing van dezelfde oefening van het vorige hoofdstuk.
 
@@ -112,7 +136,7 @@ Ook de footer op de “Over ons” willen we nog wat extra’s geven.
 ![](images/vdb05.PNG) 
 
 ---
-## Oefening 3: Yoko's kitchen
+## Oefening 4: Yoko's kitchen
 
 Deze oefening gaat verder op de oplossing van dezelfde oefening van het vorige hoofdstuk.
 
