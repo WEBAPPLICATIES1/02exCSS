@@ -51,10 +51,10 @@ Werk daarna ook de pagina’s personal.html, dream.html en practical.html uit op
 **personal.html**
 ![](images/li02.PNG)
 
-**dream.html**
+**practical.html**
 ![](images/li03.PNG)
 
-**practical.html
+**dream.html
 ![](images/li04.PNG)
 ---
 
