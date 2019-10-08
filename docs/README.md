@@ -79,7 +79,7 @@ Vergeet niet de stylesheet overzichtelijk te houden aan de hand van commentaar r
 
 De homepage ziet er nu als volgt uit:
 
-![](images/vdb01.PNG)
+![](images/vdb01.png)
 
 ### **Toevoegen van een achtergrond**
 
@@ -90,7 +90,7 @@ Laten we nu een achtergrond image op onze website integreren
     3. de achtergrond mag herhaald worden
     4. achtergrond image mag beginnen vanaf de linkerbovenhoek van onze website
 
-![](images/vdb02.PNG)  
+![](images/vdb02.png)  
 
 ### **Opmaak navigatie**
 
@@ -108,7 +108,7 @@ De navigatie maken we ook wat duidelijker
     3. Bij hover kleur: #636b67
     4. De huidige paginalink: red (tip voeg een klasse toe)
 
-![](images/vdb03.PNG) 
+![](images/vdb03.png) 
 
 ### **Opmaak main content**
 
@@ -124,7 +124,7 @@ We willen enkele woorden op onze homepagina benadrukken
     2. Een regelgrootte van 2em
     3. Tekst grootte van 1.2em
 
-![](images/vdb04.PNG) 
+![](images/vdb04.png) 
 
 ### **Opmaak footer content**
 Ook de footer op de “Over ons” willen we nog wat extra’s geven.
@@ -133,7 +133,7 @@ Ook de footer op de “Over ons” willen we nog wat extra’s geven.
 - Witte links zonder onderlijning
 - H1 met een 1.5em regelgrootte
 
-![](images/vdb05.PNG) 
+![](images/vdb05.png) 
 
 ---
 ## Oefening 4: Yoko's kitchen
