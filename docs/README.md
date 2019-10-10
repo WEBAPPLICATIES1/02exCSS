@@ -150,7 +150,6 @@ Deze oefening gaat verder op de oplossing van dezelfde oefening van het vorige h
 
 **Richtlijnen:**
 1. Voeg een bestand site.css in de juiste folder toe en verwijs er naar in het html bestand
-2. Voeg de browser reset toe en verwijs er naar in site.css. Verwijder de eerste stijlregel.
 3. De gebruikte kleuren zijn:
 a. #666666: kleur tekst
 b. #aeaca8: grijs
